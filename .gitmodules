@@ -9,7 +9,8 @@
 	url = https://github.com/trentgill/dfu-stm32f7.git
 [submodule "submodules/lua"]
 	path = submodules/lua
-	url = https://github.com/trentgill/lua.git
+	url = https://github.com/taubaland/lua.git
+	branch = luacc-5.3.4
 [submodule "submodules/STM32CubeF7_Drivers"]
 	path = submodules/STM32CubeF7_Drivers
 	url = https://github.com/trentgill/STM32CubeF7_Drivers
